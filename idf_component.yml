@@ -1,6 +1,6 @@
 version: "1.0.1"
 license: "MIT"
-description: ESP IDF driver for the HC SR04 ultrasonic module module with 2 bits control interface
+description: Ultrasonic distance sensor component for ESP-IDF version 8.0+ using a C++ class
 url: "https://github.com/elrebo-de/hcsr04_sensor"
 issues: https://github.com/elrebo-de/hcsr04_sensor/issues
 repository: "https://github.com/elrebo-de/hcsr04_sensor.git"

@@ -1,4 +1,6 @@
-version: "1.1.1"
+version: "1.1.2"
 dependencies:
     idf: ">=6.0"
-    elrebo-de/hcsr04_sensor: ">=1.0.1"
+    elrebo-de/hcsr04_sensor:
+      git: https://github.com/elrebo-de/hcsr04_sensor.git
+      version: ">=1.0.2"
